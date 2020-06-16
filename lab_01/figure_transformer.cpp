@@ -14,6 +14,7 @@ vector4d_t *getPointsForRender(const figure_t &figure, unsigned int &count)
     {
         vector4d_t lineStart;
         vector4d_t lineEnd;
+
         int idxStart;
         int idxEnd;
 
